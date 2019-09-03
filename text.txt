@@ -1,0 +1,2 @@
+ I am Margaret Nambaziira .
+This is my first text file while testing git.
